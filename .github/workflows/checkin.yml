@@ -1,4 +1,4 @@
-name: checkin
+name: checkin1
 on:
   schedule:     
   - cron:  '45 02 * * *'
