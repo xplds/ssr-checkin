@@ -4,7 +4,7 @@
  * @Description: 
  * Copyright (c) 2022 by wzdnzd, All Rights Reserved.
 -->
-# 机场自动签到脚本，支持多个机场签到
+# 机场自动签到脚本，支持多个机场签到   
 
 > 说明: 
 > + `auto-checkin.py`用于基于SS-Panel搭建的机场签到，`renewal.py`用于基于V2Board搭建的机场订阅续期
