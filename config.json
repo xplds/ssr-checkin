@@ -7,11 +7,11 @@
     "retry": 5,
     "domains": [
         {
-            "domain": "url",
+            "domain": "www.somersaultcloud.xyz",
             "proxy": true,
             "param": {
-                "email": "email",
-                "passwd": "password"
+                "email": "1832326635@qq.com",
+                "passwd": "123++..+."
             }
         },
         {
